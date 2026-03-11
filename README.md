@@ -1,31 +1,42 @@
 <h1 align="center">Hi 👋, I'm Prajakta Ghyar</h1>
-<h3 align="center">🚀 AI Engineering Student | Machine Learning Explorer</h3>
+<h3 align="center">🤖 AI Engineering Student | Machine Learning & Deep Learning Explorer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineering+Student;Machine+Learning+Explorer;Frontend+Developer;DSA+Learner&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineering+Student;Machine+Learning+Explorer;Deep+Learning+Learner;DSA+Practitioner;AI+Project+Builder&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-* 🎓 B.Tech AI Engineering Student
-* 💻 Learning **Machine Learning, MERN Stack, and DSA**
-* 🧠 Exploring **Prompt Engineering & AI Algorithms**
-* 🌱 Building **Java, Python, and AI Projects**
-* 🌿 Nature lover & creative thinker
-
----
-
-## 💻 Tech Stack
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css,mysql,mongodb,react,nodejs,git,github,vscode" />
+<a href="https://www.linkedin.com/in/prajakta-ghyar-276051317"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://leetcode.com/u/prajaktaghyar/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="48"/></a>
+<a href="https://github.com/prajaktaghyar"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://linktr.ee/prajaktaghyar033"><img src="https://cdn.simpleicons.org/linktree/39E09B" height="48"/></a>
 </p>
 
 ---
 
-## 🧠 Currently Learning
+## 🌟 About Me
+
+✨ **B.Tech Student in Artificial Intelligence Engineering**  
+🧠 Exploring **Machine Learning, Deep Learning & AI Algorithms**  
+💻 Building projects using **Java, Python, and AI technologies**  
+📊 Practicing **Data Structures & Algorithms (DSA)**  
+🌿 Nature lover who enjoys **creativity and exploration**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🧠 AI & ML Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
@@ -33,7 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=prajaktaghyar&show_icons=true&theme=radical&hide_border=true"/>
@@ -46,21 +57,21 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prajaktaghyar&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=prajaktaghyar&theme=radical&no-frame=true&margin-w=12&margin-h=12"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **Blood Bank Management System** – Python + MySQL
-🔹 **BookSwap Community System** – Python GUI + Database
-🔹 **Movie Ticket Booking System** – Java
-🔹 **Emotion Recognition from Speech** – Deep Learning
-🔹 **EmoDraw AI Finger Drawing System** – OpenCV + MediaPipe
+🔹 **Blood Bank Management System** — Python + MySQL  
+🔹 **BookSwap Community Book Exchange** — Python GUI + Database  
+🔹 **Movie Ticket Booking System** — Java  
+🔹 **Emotion Recognition from Speech** — Deep Learning + Audio Processing  
+🔹 **EmoDraw AI Finger Drawing** — OpenCV + MediaPipe  
 
 ---
 
@@ -80,10 +91,8 @@
 
 ---
 
-## ⚡ Fun Quote
+## ⚡ Developer Philosophy
 
 > **Code • Create • Innovate • Repeat**
 
-🔥 *Future AI Engineer*
-
-
+🔥 *Future AI Engineer | Turning ideas into intelligent systems*
